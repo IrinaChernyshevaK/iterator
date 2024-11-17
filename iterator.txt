@@ -30,7 +30,7 @@ try:
     for i in iter1:
         print(i, end=' ')
 except StepValueError:
-    print('Шаг указан неверно')
+    print('РЁР°Рі СѓРєР°Р·Р°РЅ РЅРµРІРµСЂРЅРѕ')
 
 iter2 = Iterator(-5, 1)
 iter3 = Iterator(6, 15, 2)
